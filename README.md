@@ -30,4 +30,7 @@ Welcome to my profile! <br><br>I'm passionate about bridging cultures, crafting 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adiam-Ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Adiam-Ahmed&style=flat-square)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
